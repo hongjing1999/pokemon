@@ -11,3 +11,6 @@ nbdist/
 
 # End of https://www.gitignore.io/api/netbeans
 /WIX1002/nbproject/private/
+/ABC/nbproject/private/
+/matrixnumber/nbproject/private/
+/Assignment1/nbproject/private/
