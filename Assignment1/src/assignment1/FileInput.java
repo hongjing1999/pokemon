@@ -5,7 +5,6 @@
  */
 package assignment1;
 
-import Pokemon.*;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
